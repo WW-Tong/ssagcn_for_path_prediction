@@ -4,7 +4,7 @@
 ## then run
 ```
 sh get_data.sh
-sh tran.sh 
+sh train.sh 
 python test_ssagcn.py
  ```
 
