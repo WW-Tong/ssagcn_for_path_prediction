@@ -5,6 +5,6 @@
 ```
 sh get_data.sh
 sh tran.sh 
- python test_ssagcn.py
-```
+python test_ssagcn.py
+ ```
 
