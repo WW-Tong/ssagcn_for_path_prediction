@@ -3,8 +3,7 @@
 ## check cuda gpu config in shell get_data.sh  tran.sh   
 ## then run
 ```
-sh get_data.sh
-sh train.sh 
-python test_ssagcn.py
+python test.py
  ```
+
 
